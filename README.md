@@ -1,2 +1,2 @@
 # FastCoV19
-![](images/1.png)
+<img src = "1.png">
