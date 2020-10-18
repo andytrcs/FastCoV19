@@ -1,2 +1,2 @@
 # FastCoV19
-<img src = "1.png" width = 400>
+<img src = "1.png" width = 600>
