@@ -1,2 +1,2 @@
 # FastCoV19
-![](inmages/1png)
+![](inmages/1.png)
